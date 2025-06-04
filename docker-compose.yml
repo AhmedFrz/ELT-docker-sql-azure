@@ -1,0 +1,10 @@
+version: "3.3"
+postgres_services:
+    container_name: postgres_services
+    image: postgres:12.14
+    ports:
+        - 5433:5432
+
+envrioment:
+  POSTGRES_PASSWORD: postgres
+restart: on-failure
