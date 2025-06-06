@@ -1,0 +1,5 @@
+af.md
+ELT-docker-sql-azure/postgres_creds.json
+
+# Ignore database credentials file
+postgres_creds.json
