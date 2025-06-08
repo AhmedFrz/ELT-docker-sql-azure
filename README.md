@@ -24,7 +24,7 @@ This project demonstrates a simple ETL pipeline using Python, Docker, and Postgr
 
 ### 1. Clone the Repository
 ```sh
-git clone <your-repo-url>
+git clone <https://github.com/AhmedFrz/ELT-docker-sql-azure>
 cd ELT-docker-sql-azure
 ```
 
